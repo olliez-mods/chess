@@ -25,7 +25,7 @@ int main()
             if (event.type == sf::Event::Closed)
                 window.close();
         }
-
+        //testing visual studio git
         if (sf::Mouse::isButtonPressed(sf::Mouse::Left) && mouseInBox(window))
         {
         }
