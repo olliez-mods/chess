@@ -1,5 +1,8 @@
 # chess
 simple chess game
 
-This is the raw code files used to build it, it's made with SFML (included) so if you wanna see it I geuss you'll have to figure it out XD
-it's C++, it was made with visual studio 2019
+I originaly made this in 2020 but recently updated it to work with the new SFML librarys (3.0.0)
+
+It doesn't check for checks or castling yet, but it does have sounds.
+
+Hopefully the EXE works, if you wanna use it on macbooks, you gotta build it yourself
